@@ -2,7 +2,6 @@
 
 A comprehensive task management application built with Flutter, designed to help you stay organized and boost productivity. Features include task creation, scheduling, prioritization, subtasks, location-based reminders, and more.
 
-<img src="![Screenshot 2025-04-09 214149](https://github.com/user-attachments/assets/3aba3594-3051-4739-9958-5ba7e39ba903)" width="500" height="500">
 ![Screenshot 2025-04-09 214149](https://github.com/user-attachments/assets/3aba3594-3051-4739-9958-5ba7e39ba903)
 ![Screenshot 2025-04-09 212620](https://github.com/user-attachments/assets/17a88e5f-51ad-49dc-adee-d6e21fca85c6)
 ![Screenshot 2025-04-09 212352](https://github.com/user-attachments/assets/c328f54d-7d9d-4248-b409-d6ab5f60861b)
