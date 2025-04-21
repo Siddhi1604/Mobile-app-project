@@ -1,9 +1,8 @@
 # Task Manager Pro - Flutter
 
 A comprehensive task management application built with Flutter, designed to help you stay organized and boost productivity. Features include task creation, scheduling, prioritization, subtasks, location-based reminders, and more.
-
 <div align="center">
-<img src="https://github.com/user-attachments/assets/3aba3594-3051-4739-9958-5ba7e39ba903" width="250" alt="Screenshot 1" />
+<img src="https://github.com/user-attachments/assets/3748b7a8-e718-4865-8b77-9dddff963656" width="250" alt="Screenshot 1" />
 <img src="https://github.com/user-attachments/assets/17a88e5f-51ad-49dc-adee-d6e21fca85c6" width="250" alt="Screenshot 2" />
 <img src="https://github.com/user-attachments/assets/c328f54d-7d9d-4248-b409-d6ab5f60861b" width="250" alt="Screenshot 3" />
 </div>
